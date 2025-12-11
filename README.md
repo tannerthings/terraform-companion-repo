@@ -6,7 +6,7 @@ Hands-on code examples for the Terraform tutorial series at [tannerthings.com/tu
 
 Most Terraform tutorials teach the happy path. These tutorials teach what actually happens in production environments, including state management nightmares, drift detection, and recovery scenarios.
 
-Written by Troy Tanner, with 15+ years managing DoD systems and FedRAMP High infrastructure.
+Written by Troy Tanner, with 15+ years managing commercial and DoD systems and FedRAMP High infrastructure.
 
 ## Repository Structure
 
