@@ -104,7 +104,7 @@ Found an issue? Have a suggestion? Open an issue or pull request.
 
 ## About the Author
 
-**Troy Tanner** is a Technical Program Manager at LexisNexis managing $2.74B in operations for 2,800+ Air Force personnel. He specializes in DoD systems modernization, AWS GovCloud architecture, and agile transformation.
+**Troy Tanner** is a Technical Program Manager at Obsidian Global managing platform engineering for a system process $2.74B in procurement operations for 2,800+ Air Force personnel. He specializes in DoD systems modernization, AWS GovCloud architecture, and agile transformation.
 
 - Website: [tannerthings.com](https://tannerthings.com)
 - LinkedIn: [linkedin.com/in/tannerthings](https://linkedin.com/in/tannerthings)
