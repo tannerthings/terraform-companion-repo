@@ -54,8 +54,8 @@ Coming soon:
 1. **Clone this repository**:
 
 ```bash
-git clone https://github.com/yourusername/terraform-tutorials.git
-cd terraform-tutorials
+git clone https://github.com/tannerthings/terraform-companion-repo.git
+cd terraform-companion-repo
 ```
 
 2. **Navigate to a tutorial**:
